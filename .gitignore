@@ -1,0 +1,5 @@
+﻿volumes/
+.env
+*.log
+node_modules/
+docker-compose.yml
